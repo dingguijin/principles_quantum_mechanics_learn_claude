@@ -3,7 +3,7 @@
 跟随 Claude 从零学习 Shankar《Principles of Quantum Mechanics》（第二版）的完整笔记。
 
 ## 学习者背景
-- 高中毕业，零大学物理/数学基础
+- 0 基础
 - 目标：系统学完 Shankar 第二版
 
 ## 目录
